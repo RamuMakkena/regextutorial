@@ -1,2 +1,1 @@
-# regextutorial
-This is a simple tutorial for regex
+# Regex Tutorial Starter Code
